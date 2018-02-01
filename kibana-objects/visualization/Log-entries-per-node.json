@@ -1,5 +1,5 @@
 {
-    "id": "Log-entries-per-node",
+    "_id": "Log-entries-per-node",
     "_type": "visualization",
     "_source": {
         "title": "Logs per Node/Host",

@@ -1,5 +1,5 @@
 {
-    "id": "Requests",
+    "_id": "Requests",
     "_type": "visualization",
     "_source": {
         "title": "Requests",
@@ -8,7 +8,7 @@
         "description": "",
         "version": 1,
         "kibanaSavedObjectMeta": {
-        "searchSourceJSON": "{\"index\":\"logstash-*\",\"query\":{\"query_string\":{\"analyze_wildcard\":true,\"query\":\"app:acchaproxy\"}},\"filter\":[]}"
+            "searchSourceJSON": "{\"index\":\"logstash-*\",\"query\":{\"query_string\":{\"analyze_wildcard\":true,\"query\":\"app:acchaproxy\"}},\"filter\":[]}"
         }
     }
 }

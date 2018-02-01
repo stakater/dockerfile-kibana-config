@@ -1,5 +1,5 @@
 {
-    "id": "Log-entries-per-container",
+    "_id": "Log-entries-per-container",
     "_type": "visualization",
     "_source": {
         "title": "Logs per Container",

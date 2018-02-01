@@ -1,5 +1,5 @@
 {
-    "id": "Log-entries-per-pod",
+    "_id": "Log-entries-per-pod",
     "_type": "visualization",
     "_source": {
         "title": "Logs per Pod",

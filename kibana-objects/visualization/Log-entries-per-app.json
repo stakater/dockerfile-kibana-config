@@ -1,5 +1,5 @@
 {
-    "id": "Log-entries-per-app",
+    "_id": "Log-entries-per-app",
     "_type": "visualization",
     "_source": {
         "title": "Logs per App",
