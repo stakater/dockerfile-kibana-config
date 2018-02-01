@@ -1,5 +1,5 @@
 {
-    "_id": "Log-entries-per-namespace",
+    "id": "Log-entries-per-namespace",
     "_type": "visualization",
     "_source": {
         "title": "Logs per Namespace",

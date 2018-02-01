@@ -1,5 +1,5 @@
 {
-    "_id": "Requests",
+    "id": "Requests",
     "_type": "visualization",
     "_source": {
         "title": "Requests",

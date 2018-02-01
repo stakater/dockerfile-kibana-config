@@ -1,5 +1,5 @@
 {
-    "_id": "All-logs",
+    "id": "All-logs",
     "_type": "search",
     "_source": {
         "title": "All logs",

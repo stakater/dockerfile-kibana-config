@@ -1,5 +1,5 @@
 {
-    "_id": "Kubernetes-Logs-Overview",
+    "id": "Kubernetes-Logs-Overview",
     "_type": "dashboard",
     "_source": {
         "title": "Kubernetes Logs Overview",

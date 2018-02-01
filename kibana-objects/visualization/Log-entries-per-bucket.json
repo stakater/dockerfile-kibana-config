@@ -1,5 +1,5 @@
 {
-    "_id": "Log-entries-per-bucket",
+    "id": "Log-entries-per-bucket",
     "_type": "visualization",
     "_source": {
         "title": "Logs per Bucket",
